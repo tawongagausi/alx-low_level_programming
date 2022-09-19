@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Main - prints using printf function
- * Description - prints with proper grammar, but the outcome is a piece of art,
- * Return : 0
+ * Main - Entry point
+ *
+ *Return: Always 0 (Successful)
  */
 
 int main(void)
