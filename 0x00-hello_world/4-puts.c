@@ -2,7 +2,8 @@
 
 /**
 * main - Prints "Programming is like building a multilingual puzzle"
-* Return 0 - Exits the program after printing
+* Exits the program after printing
+* Return: 0
 */
 
 int main(void)
