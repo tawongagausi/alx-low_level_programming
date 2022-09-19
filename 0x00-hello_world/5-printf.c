@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * Main - Entry point
- * Description: prints the string 
- * Return: Always 0 (Successful)
- */
+* main - Entry point
+* Description: prints the string 
+* Return: Always 0 (Successful)
+*/
 
 int main(void)
 {
