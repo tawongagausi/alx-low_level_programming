@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * Main: Entry point
+ * Main - Entry point
+ *
+ * Description : prints the string "with proper grammar, but the outcome is a piece of art,"
  *
  *Return: Always 0 (Successful)
  */
