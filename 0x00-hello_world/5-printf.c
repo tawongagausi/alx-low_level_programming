@@ -2,10 +2,8 @@
 
 /**
  * Main - Entry point
- *
- * Description : prints the string "with proper grammar, but the outcome is a piece of art,"
- *
- *Return: Always 0 (Successful)
+ * Description: prints the string 
+ * Return: Always 0 (Successful)
  */
 
 int main(void)
