@@ -7,7 +7,7 @@
 /**
  * main - entry point
  *
- * Description: A program that prints the last digit of a random number
+ * Description: Prints a random number
  *
  * Return: always 0 (success)
  */
